@@ -1,0 +1,53 @@
+[33m070aa24[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m make a change group script for the file hello
+[33m50fcb69[m fix the code
+[33mc122dfc[m make a script named directory permissions
+[33m10994f3[m create script named directories permissions
+[33m38576bd[m fixed code error
+[33mc7b8650[m create script for mirror permissons
+[33mc124e66[m create a script named John_Doe
+[33m755c1f7[m create the James_Bond script
+[33m7ab5fc3[m make a script that adds execution permission to all
+[33m184a89a[m fix code
+[33m5bce8cc[m create multiple permissions script
+[33m272e392[m made a script that adds execute permission to hello file just for the owner
+[33ma5033ad[m fix code
+[33m7b732cb[m create a script that makes a file called hello
+[33m8689f5d[m create a script that makes a file called hello
+[33ma347683[m fixed script 3
+[33mbe61fb7[m create a script that changes owner of file hello to betty
+[33mec28bce[m created script to show the groups a user is in
+[33me8ceace[m create a script to tell who is the current user
+[33m1f9830c[m added a README.md file to work
+[33m961e2a0[m fixed line of code
+[33ma4121dd[m fixed code
+[33m56120e1[m changed to an executable script
+[33mfc1c092[m create a script that changes user to betty
+[33mcb0b195[m fixed type error finally
+[33m487a8fd[m attempt fix for script 14
+[33m585b171[m create 3 directories
+[33m833fc85[m create a script that cleans emacs
+[33ma828b81[m script from moves all files beginning with uppercase
+[33m414a24f[m script from moves all files beginning with uppercase
+[33mef5030a[m made a script that copies all html files from cd to parent directory only copying certain files that didn't exist
+[33m1653ca8[m create a script that makes a soft link whilst being in current working directory
+[33m76c49c6[m create a script that prints the type of file in /tmp
+[33m366addb[m create a script that lists current directory, parent and /boot, in long format
+[33mbbcd86f[m create a script that goes back to the previous directory
+[33mff6af99[m made script executable file
+[33m00f84db[m create a script that deletes directory from /tmp
+[33m55f1b66[m create a script that deletes file betty specifically inside /tmp/my_first_directory
+[33m8ad531f[m create a script that moves file betty from /tmp to /tmp/my_first_directory
+[33m70dc4c5[m created a script that creates a folder in /tmp
+[33m3a14553[m created script to list hidden files digit only
+[33me3ca028[m Found the mistake and made it an executable
+[33mdb91bfa[m Retry for check
+[33mb941788[m Created a script that display all files even hidden in long format
+[33m131ff73[m Created a script that display all files even hidden in long format
+[33me1f33ef[m Create a script to display files in long format
+[33m83c7add[m Created a script to send user to home directory
+[33m15e2a7d[m Created script to list items in current directory
+[33m088ee46[m Fixed README.txt to README.md
+[33m96158c2[m Made a change to the root README.md
+[33m9315cf1[m Made the first command an executable
+[33m0d12163[m Created README file and first bash command
+[33m2fd9f4a[m Initial commit
